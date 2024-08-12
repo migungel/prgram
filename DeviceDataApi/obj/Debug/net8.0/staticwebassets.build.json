@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ElzOwkhkkdfa3DpVA5bidEWWOdLAFhK3dyho3rR3uj4=",
+  "Source": "DeviceDataApi",
+  "BasePath": "_content/DeviceDataApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
